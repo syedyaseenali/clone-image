@@ -1,0 +1,50 @@
+.container{
+   border: 2px solid black;
+   
+    
+}
+.second{
+    border: 2px solid black;
+    margin: 2px ;
+    padding-bottom: 110px;
+}
+body{
+    text-align: center;
+    
+}
+li{
+    display: inline-block;
+   
+}
+ul{
+    word-spacing: 150px;
+    border-color:black white black white ;
+    border-top:3px solid black;
+    border-bottom: 1px solid black;
+    margin-right: 250px;
+    margin-left: 250px;
+    padding: 10px;
+    font-weight: 900;
+}
+.one{
+    color: red;
+}
+h1{
+    line-height: 0px;
+}
+h3{
+    line-height: 0px;
+}
+h4{
+    line-height: 0px;
+}
+img{
+    width: 270px;
+    
+}
+p{
+    font-family: cursive;
+    margin-top: 50px;
+    font-size: 25px;
+    
+}
